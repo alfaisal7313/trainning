@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_home">Hello home fragment</string>
+    <string name="fragment_detail">Hello detail fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_detail">Detail</string>
+    <string name="drawable_open">Open</string>
+    <string name="drawable_close">Close</string>
 </resources>
